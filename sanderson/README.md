@@ -1,0 +1,5 @@
+![](https://github.com/thisiskyle/wallpaper/blob/main/sanderson/mistborn_vin.png)
+![](https://github.com/thisiskyle/wallpaper/blob/main/sanderson/tress_crimson_sea.png)
+![](https://github.com/thisiskyle/wallpaper/blob/main/sanderson/tress_emerald_sea.png)
+![](https://github.com/thisiskyle/wallpaper/blob/main/sanderson/white_sand.png)
+![](https://github.com/thisiskyle/wallpaper/blob/main/sanderson/frugal_wizard.jpg)
