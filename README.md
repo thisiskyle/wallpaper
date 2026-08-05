@@ -31,3 +31,4 @@
 ![](./pikmin/pikmin_4_glow_pikmin.jpg)
 ![](./dwarf_fortress/df_siege_update.png)
 ![](./dwarf_fortress/dwarf_fortress_steam.png)
+![](./dwarf_fortress/df_myth_and_magic.png)
